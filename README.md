@@ -12,4 +12,4 @@ A simple and interactive web project that displays an animated number counter wi
 - JavaScript  
 
 ## Live Demo  
-[Click here to see live]()  
+[Click here to see live](https://responsive-number-counting-animatio.vercel.app)  
