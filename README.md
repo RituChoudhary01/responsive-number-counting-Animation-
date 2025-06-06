@@ -12,4 +12,4 @@ A simple and interactive web project that displays an animated number counter wi
 - JavaScript  
 
 ## Live Demo  
-[Click here to see live](https://moonlit-lebkuchen-bdb9c5.netlify.app/)  
+[Click here to see live]()  
